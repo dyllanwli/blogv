@@ -1,0 +1,23 @@
+{
+  "name": "blogv",
+  "version": "1.0.0",
+  "description": "vue static github pages",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyllanwli/blogv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyllanwli/blogv/issues"
+  },
+  "homepage": "https://github.com/dyllanwli/blogv#readme"
+}
