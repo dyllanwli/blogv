@@ -5,7 +5,7 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'Tech', link: '/Tech/' },
+            { text: 'Blog', link: '/blog/' },
         ]
     }
 }

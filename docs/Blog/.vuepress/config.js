@@ -6,7 +6,7 @@ module.exports = {
         ],
         sidebar: [
             '/',
-            '/Test-1',
+            '/和弦级数的记忆',
             ['/page-b', 'Explicit link text']
         ]
     }

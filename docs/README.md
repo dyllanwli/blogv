@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: https://raw.githubusercontent.com/dyllanwli/Solution/master/image/16729593.png
-actionText: Archive
-actionLink: /archive/
+actionText: Blog
+actionLink: /blog/
 features:
 - title: Music
   details: Blues, Jazz and GM
